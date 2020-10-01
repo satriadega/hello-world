@@ -1,5 +1,4 @@
 # hello-world
 this one is a practice.
 
-Im a Musician.
-new one
+I live in a fantasy of art.
